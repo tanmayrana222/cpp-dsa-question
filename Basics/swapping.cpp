@@ -16,6 +16,8 @@ int main ( ) {
     cout << "after swapping the 1st number is : " << num1 << "\n" ;
     cout << "after swapping the 2nd number is : " << num2 <<"\n\n" ;
 
-    return 0;
+    return 0;{
+        
+    }
     
 }
